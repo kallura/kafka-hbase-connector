@@ -1,4 +1,4 @@
-## Kafka MQTT connector
+## Kafka HBase sink connector
 
 This is a very simple Kafka sink connector to HBase
 

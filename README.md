@@ -4,12 +4,12 @@ This is a very simple Kafka sink connector to HBase
 
 !!! Supports only String, Integer, Long, Double filed types !!!
 
-#####Prerequisites
+##### Prerequisites
 1. Java v1.8
 2. Kafka v1.1.0
 3. Maven v3.5.2
 
-#####Installing
+##### Installing
 
 Start up your HBase cluster
 
@@ -51,7 +51,7 @@ Run connector
  bin/connect-standalone.sh config/connect-standalone.properties config/hbase.properties
 ````
 
-#####todo
+##### todo
 
 Add support for all possible data types
 
